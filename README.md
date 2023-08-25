@@ -39,7 +39,7 @@ project_directory/
 
 1. Clone the repository:
 
-git clone 
+git clone https://github.com/SanidhyaAulakh/crop_disease_detection1.git
 
 2. Install the required libraries using pip:
 
