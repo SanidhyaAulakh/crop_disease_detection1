@@ -3,6 +3,13 @@
 A web application for predicting crop disease using machine learning and deep learning techniques.
 # working prototype video
 https://www.loom.com/share/4dd1b0dd45e14b8d9fb8a653ebe7fe00?sid=d182a64b-998b-4597-8659-b5bee9807607
+# website working project pics 
+<img width="942" alt="image" src="https://github.com/SanidhyaAulakh/crop_disease_detection1/assets/143162258/ce62df16-030c-4760-8136-72536cfaebb5">
+
+<img width="694" alt="image" src="https://github.com/SanidhyaAulakh/crop_disease_detection1/assets/143162258/c2036a52-c8af-43b7-99ea-225d38be5bc9">
+<img width="768" alt="image" src="https://github.com/SanidhyaAulakh/crop_disease_detection1/assets/143162258/50b419fc-f92b-4b27-8552-893e2100d76a">
+
+
 ## Table of Contents
 
 - [Overview](#overview)
