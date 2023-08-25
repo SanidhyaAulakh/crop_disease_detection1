@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+    <title>Crop Disease Detection</title>
+</head>
+<body>
+    <header>
+        <h1>Crop Disease Detection</h1>
+    </header>
+    <main>
+        <div class="container">
+            <label for="imageInput" class="upload-button">Select Image</label>
+            <input type="file" id="imageInput">
+            <img id="imagePreview" src="#" alt="Uploaded Image" />
+            <button id="predictButton">Predict</button>
+            <div id="result"></div>
+        </div>
+    </main>
+    <footer>
+        <p>© 2023 Crop Disease Detection. All rights reserved.</p>
+    </footer>
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
